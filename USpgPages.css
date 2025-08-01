@@ -149,24 +149,6 @@ a {
   display: inline-block;
 }
 
-@media screen and (max-width: 768px) {
-    tfoot tr {
-      display: block;
-      width: 100%;
-    }
-
-    tfoot td, tfoot th {
-      display: block;
-      width: 100%;
-      box-sizing: border-box;
-      text-align: left;
-      padding: 0.5em;
-    }
-
-    tfoot td ul {
-      padding-left: 1em;
-    }
-
 .contact-table {
   width: 100%;
   max-width: 100%;
